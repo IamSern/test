@@ -1,2 +1,1 @@
-thu commit khong co msg
-thu commit -a
+commit ma khong thuc hien git add fiel not on git
