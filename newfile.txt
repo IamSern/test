@@ -1,1 +1,3 @@
 tao file moi tren web
+
+thử sử dung fetch
