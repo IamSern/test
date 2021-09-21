@@ -4,3 +4,5 @@ thử sử dung fetch
 
 
 git diff
+
+insert 2 line
