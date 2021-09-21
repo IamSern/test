@@ -3,3 +3,6 @@ tao file moi tren web
 thử sử dung fetch
 
 sử dụng git pull để tải thay đổi từ remote repo
+
+
+thử git pull --rebase origin
