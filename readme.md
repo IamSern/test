@@ -5,3 +5,4 @@ sửa file ở nhánh br-1
 
 try git diff --stat
 
+dong nay khong xuat hien tren remote repo
