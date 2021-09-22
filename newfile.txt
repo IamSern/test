@@ -6,3 +6,5 @@ thử sử dung fetch
 git diff
 
 insert 2 line
+
+2 lien
