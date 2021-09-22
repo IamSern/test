@@ -1,3 +1,0 @@
-file được tạo ở br-1 
-commit lên br-1 
-thực hiện pull request
